@@ -15,7 +15,7 @@ $ terraform fmt
 $ terraform plan
 $ terraform apply
 $ terraform init -upgrade // after updating "required_providers"
-$ terraform destroy // cleanup on project completion"
+$ terraform destroy // cleanup on project completion
 ```
 ***
 ## Files configuration : 
