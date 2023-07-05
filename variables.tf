@@ -1,6 +1,8 @@
 #  variables definition
 
+# General variables
 variable "region" {
-  default = "us-east-1"
+  type        = string
+  description = "Default region for provider"
 }
 
