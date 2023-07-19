@@ -1,7 +1,7 @@
 # terraform setup
 
 terraform {
-  required_version = ">= 1.5.1"
+  required_version = ">= 1.5.3"
 
   # Remote backend specified as S3 bucket
   backend "s3" {
